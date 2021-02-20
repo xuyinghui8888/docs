@@ -67,3 +67,39 @@ William Falcon etc.. 把pytorch的程序写法分解为8大块；
  pytorch 教学视频
  
  https://www.youtube.com/watch?v=jexkKugTg04&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&index=8
+ 
+ 
+ torch.eye(2)
+  tensor( [1.,0.],[0.,1.] )
+ torch.zeros(2,2)
+  tensor( [0., 0.], [0., 0.] )
+ torch.ones(2,2)
+  tensor( [1., 1.], [1., 1.] )
+ torch.rand(2,2)
+  tensor( [0.4517, 0.6748], [0.3394, 0.5502] )
+ 
+ creating pytorch tensors - best options 
+ 
+ data = np.array( [1,2,3] )
+ 
+ t1 = torch.Tensor(data) 
+ t2 = torch.tensor(data)
+ t3 = torch.as_tensor(data)
+ t4 = torch.from_numpy(data) 
+ 
+ memory & share 
+ 
+ tensor opertion type
+ 
+ 1. reshaping
+ 2. element-wise
+ 3. reduction 
+ 4. access
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
