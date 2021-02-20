@@ -1,0 +1,69 @@
+William Falcon etc.. 把pytorch的程序写法分解为8大块；
+
+八大块：
+1. TRAINING SETUP
+  - bookeeping for latest best practice
+  - training flags （epoch，batch，etc.. )
+  - set up distributed
+  - enable command line args and parse
+  - set up grid search
+  - sanity check model
+  - set up tensorbord logging
+  - load pretrained model if needed
+  - enable HPC auto-resubmit, model load/save 
+  
+ 2. DATA SETUP
+  - transforms
+  - augments, etc.. 
+  
+ 3. SYSTEM DESIGN ( architecture, models, agents, etc.. )
+ 
+ 4. Training Loop
+    for epoch
+      for batch
+        crazy research stuff
+        - encode, decode
+        - add custom attn
+        - crazy sampling or generation routine
+        - custom transformer or bert-style training
+        
+        BoilerPlate Stuff
+        - latest training best practice
+        - accumulate grads
+        - optimizer handling
+        - 16-bit
+        - distributed training
+        - backward pass
+        - logging
+        - etc.. 
+        
+        at some point validate
+        for epoch
+          for batch
+            crazy research stuff
+            - beam search
+            - protein generation
+            - video generation
+            - speech generation
+            - classification acc calculation
+            - whatever you want
+            
+        aggregate outputs across batches
+        - save weights
+        - save logs
+        - early stopping
+        - visualize
+        - etc.. 
+        
+ 
+ https://www.youtube.com/watch?v=tIeHLnjs5U8&t=36s
+ https://www.youtube.com/watch?v=p_di4Zn4wz4
+ https://www.youtube.com/watch?v=ly4S0oi3Yz8
+ https://www.youtube.com/watch?v=ToIXSwZ1pJU
+ 
+ 
+ https://www.youtube.com/watch?v=BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+ 
+ pytorch 教学视频
+ 
+ https://www.youtube.com/watch?v=jexkKugTg04&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&index=8
