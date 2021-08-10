@@ -69,3 +69,43 @@ https://remi.flamary.com/cours/otml/OTML_SIAM_2021.pdf
 
 http://mpc.ece.utexas.edu/media/uploads/publishing/ofl_corrected.pdf
 
+
+https://github.com/GalaxyLearning/GFL
+
+
+https://github.com/deepmind/alphafold/tree/main/alphafold
+
+https://www.youtube.com/watch?v=89BGjQYA0uE
+
+
+Machine Learning for
+Drug Development
+https://zitniklab.hms.harvard.edu/docs/slides/IJCAI-T27-000-intro.pdf
+
+
+http://api.sunlab.org/static/media/mmn/CJl/5d46875af8552f000160a87a.pdf
+
+【30页综述和代码实现】 基于深度学习的生物信息学应用及展望
+https://www.zhuanzhi.ai/document/93083502244544e67d9ba11a10e0abd4
+
+
+深度学习生命科学：基因组学、药物发现，238页pdf
+https://www.zhuanzhi.ai/vip/da9f0d10cd09ce1f59341b7c79955d8c
+
+When Federated Learning Meets Blockchain: A New Distributed Learning Paradigm
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Farxiv.org%2Fpdf%2F2009.09338.pdf&clen=262762&chunk=true
+
+
+wenhao-gao
+/
+askcos_synthesizability
+https://github.com/wenhao-gao/askcos_synthesizability
+
+
+https://www.bilibili.com/video/BV1G54y1D7ay?spm_id_from=333.905.b_72656c61746564.3
+
+
+
+浙江工业大学智能制药研究院段宏亮教授：AI制药的现状、技术与挑战
+https://zhuanlan.zhihu.com/p/350018398
+
